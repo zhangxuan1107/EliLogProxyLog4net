@@ -6,3 +6,12 @@ D:\个人\Code\公共库\日志库\EliLogProxyLog4net\EliLogProxyLog4net\EliLogP
 D:\个人\Code\公共库\日志库\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Debug\netstandard2.0\EliLogProxyLog4net.csproj.CoreCompileInputs.cache
 D:\个人\Code\公共库\日志库\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Debug\netstandard2.0\EliLogProxyLog4net.dll
 D:\个人\Code\公共库\日志库\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Debug\netstandard2.0\EliLogProxyLog4net.pdb
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Debug\netstandard2.0\EliLogProxyLog4net.deps.json
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Debug\netstandard2.0\EliLogProxyLog4net.dll
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Debug\netstandard2.0\EliLogProxyLog4net.pdb
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Debug\netstandard2.0\EliLogProxyLog4net.AssemblyInfoInputs.cache
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Debug\netstandard2.0\EliLogProxyLog4net.AssemblyInfo.cs
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Debug\netstandard2.0\EliLogProxyLog4net.csproj.CoreCompileInputs.cache
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Debug\netstandard2.0\EliLogProxyLog4net.dll
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Debug\netstandard2.0\EliLogProxyLog4net.pdb
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Debug\netstandard2.0\config.xml
