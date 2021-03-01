@@ -1,0 +1,10 @@
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Release\netstandard2.0\config.xml
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Release\netstandard2.0\EliLogProxyLog4net.deps.json
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Release\netstandard2.0\EliLogProxyLog4net.dll
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Release\netstandard2.0\EliLogProxyLog4net.pdb
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Release\netstandard2.0\EliLogProxyLog4net.AssemblyInfoInputs.cache
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Release\netstandard2.0\EliLogProxyLog4net.AssemblyInfo.cs
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Release\netstandard2.0\EliLogProxyLog4net.csproj.CoreCompileInputs.cache
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Release\netstandard2.0\EliLogProxyLog4net.dll
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Release\netstandard2.0\EliLogProxyLog4net.pdb
+E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\obj\Release\netstandard2.0\EliLogProxyLog4net.csprojAssemblyReference.cache

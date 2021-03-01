@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FQpRqlbLi5OKO4KOFKVMfjC5MJ6n9qP0L3MKA1Bbtf/xMiVgVof8An1vvaok8ZNl+eDu4ymOiDwFXsQgb2TMQw==",
+  "dgSpecHash": "Cu/uCp2tOmJsxWnIp+j3MXEwBEGv/RlxnotyQAhQ8y3G1uChiyhmD6PeubN3BPzcXuP/i/7yjYe0P5gB+PrmSQ==",
   "success": true,
   "projectFilePath": "E:\\work\\code\\dotnet\\LogComponent\\EliLogProxyLog4net\\EliLogProxyLog4net\\NUnitTestProject1\\NUnitTestProject1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\elilogproxylog4net\\1.0.1\\elilogproxylog4net.1.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

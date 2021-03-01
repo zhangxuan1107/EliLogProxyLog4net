@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "EliLogProxyLog4net/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "log4net": "2.0.12"
+        },
+        "compile": {
+          "lib/netstandard2.0/EliLogProxyLog4net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/EliLogProxyLog4net.dll": {}
+        }
+      },
       "log4net/2.0.12": {
         "type": "package",
         "dependencies": {
@@ -1318,23 +1330,21 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
-      },
-      "EliLogProxyLog4net/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "log4net": "2.0.12"
-        },
-        "compile": {
-          "bin/placeholder/EliLogProxyLog4net.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EliLogProxyLog4net.dll": {}
-        }
       }
     }
   },
   "libraries": {
+    "EliLogProxyLog4net/1.0.1": {
+      "sha512": "C5DOw+BF49Yj9RgK7cUASu5hMyTbc/GG9CEa1WISF4nHtxsv6SGvZfVLj8vLaUM9PZsX5l6Njipw+w36oEiC9Q==",
+      "type": "package",
+      "path": "elilogproxylog4net/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        "elilogproxylog4net.1.0.1.nupkg.sha512",
+        "elilogproxylog4net.nuspec",
+        "lib/netstandard2.0/EliLogProxyLog4net.dll"
+      ]
+    },
     "log4net/2.0.12": {
       "sha512": "9P67BCftJ7KG+B7rNOM1A9KczUwyEDed6zbAddy5Cj/73xVkzi+rEAHeOgUnW5wDqy1JFlY8+oTP0m1PgJ03Tg==",
       "type": "package",
@@ -4917,16 +4927,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
-    },
-    "EliLogProxyLog4net/1.0.0": {
-      "type": "project",
-      "path": "../EliLogProxyLog4net/EliLogProxyLog4net.csproj",
-      "msbuildProject": "../EliLogProxyLog4net/EliLogProxyLog4net.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "EliLogProxyLog4net >= 1.0.0",
+      "EliLogProxyLog4net >= 1.0.1",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
@@ -4965,11 +4970,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "E:\\work\\code\\dotnet\\LogComponent\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net.csproj": {
-              "projectPath": "E:\\work\\code\\dotnet\\LogComponent\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -4982,6 +4983,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "EliLogProxyLog4net": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[16.5.0, )"

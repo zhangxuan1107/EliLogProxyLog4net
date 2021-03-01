@@ -21,7 +21,7 @@ namespace EliLogProxyLog4net
         /// <summary>
         /// 是否已经初始化
         /// </summary>
-        private static bool isInited = false;
+        private static volatile bool isInited = false;
         /// <summary>
         /// 调用前必须先初始化
         /// </summary>
@@ -45,6 +45,7 @@ namespace EliLogProxyLog4net
             if (!isInited)
             {
                 Init();
+                isInited = true;
             }
             ProcessLog(level, logStr);
             if (_action != null)
@@ -77,7 +78,7 @@ namespace EliLogProxyLog4net
                 default:
                     break;
             }
-            SendMsg(logStr);
+            //SendMsg(logStr);
         }
 
 
