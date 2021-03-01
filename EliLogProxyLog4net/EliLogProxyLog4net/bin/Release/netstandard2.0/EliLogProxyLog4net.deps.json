@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "EliLogProxyLog4net/1.0.2": {
+      "EliLogProxyLog4net/1.0.0.3": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "log4net": "2.0.12"
@@ -126,7 +126,7 @@
     }
   },
   "libraries": {
-    "EliLogProxyLog4net/1.0.2": {
+    "EliLogProxyLog4net/1.0.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

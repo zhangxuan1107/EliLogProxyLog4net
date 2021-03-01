@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EliLogProxyLog4net</id>
+    <version>1.0.0.3</version>
+    <authors>EliLogProxyLog4net</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/zhangxuan1107/EliLogProxyLog4net.git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="log4net" version="2.0.12" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\work\code\dotnet\LogComponent\EliLogProxyLog4net\EliLogProxyLog4net\EliLogProxyLog4net\bin\Release\netstandard2.0\EliLogProxyLog4net.dll" target="lib\netstandard2.0\EliLogProxyLog4net.dll" />
+  </files>
+</package>

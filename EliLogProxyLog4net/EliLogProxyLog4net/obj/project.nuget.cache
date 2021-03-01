@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R4sd51OS0YTmFrNf0E7cLW39tSWcFNQWf9nRUWnqSgBwrbtvXB7NjR8ruwgNy/pDRORXYcgA7nTyZzDgqwn62Q==",
+  "dgSpecHash": "c6E7QWpbkIokUgZ7gKKLCKMeP99qgbpRoqjqgnt2XeoQQtj9pVy8blMJXcOOg3thLqK9L2RgBGK5stC9vSrk3g==",
   "success": true,
   "projectFilePath": "E:\\work\\code\\dotnet\\LogComponent\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net.csproj",
   "expectedPackageFiles": [

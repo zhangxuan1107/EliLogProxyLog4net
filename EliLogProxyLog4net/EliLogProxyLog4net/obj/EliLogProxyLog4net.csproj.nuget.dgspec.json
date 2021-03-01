@@ -5,7 +5,7 @@
   },
   "projects": {
     "E:\\work\\code\\dotnet\\LogComponent\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net.csproj": {
-      "version": "1.0.2",
+      "version": "1.0.0.3",
       "restore": {
         "projectUniqueName": "E:\\work\\code\\dotnet\\LogComponent\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net\\EliLogProxyLog4net.csproj",
         "projectName": "EliLogProxyLog4net",
